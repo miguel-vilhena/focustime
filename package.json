@@ -6,7 +6,6 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "eject": "expo eject",
-    "tst": "expo start"
   },
   "dependencies": {
     "expo": "~42.0.1",
