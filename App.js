@@ -13,6 +13,7 @@ const STATUSES = {
   CANCELLED: 2,
 };
 export default function App() {
+  console.log("this is going to github");
   const [focusSubject, setFocusSubject] = useState(null);
   const [focusHistory, setFocusHistory] = useState([]);
 
